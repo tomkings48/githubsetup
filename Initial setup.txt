@@ -1,5 +1,6 @@
 Red 
 Blue
+Red
 Orange 
 Yellow
 Purple
